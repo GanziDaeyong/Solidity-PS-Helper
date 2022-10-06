@@ -93,4 +93,6 @@ It's a mere wrapper for hardhat test library. I basically wanted to use solidity
 
 - You might also want to use `uint2str`, `str2uint` which are library already implemented in `PS.sol`.
 
-- Still have no idea what you'll be doing? Just install it, and `$ bash ./run.sh` in `./user`. I put an example **fibonacci** problem there.
+- Still have no idea what you'll be doing? Just install it, and `$ bash ./run.sh` in `./user`. I put an example **fibonacci** problem there. You'll see result below.
+
+<img width="763" alt="image" src="https://user-images.githubusercontent.com/56102267/194354575-99af34b2-bbef-46fc-958b-84933198c154.png">
