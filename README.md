@@ -16,7 +16,7 @@ you need...
 then..
 
 ```
-$ git clone
+$ git clone https://github.com/GanziDaeyong/Solidity-PS-Helper.git
 $ cd ./hardhat_tester
 $ npm install
 ```
